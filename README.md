@@ -1,0 +1,2 @@
+# seligaa.py
+se liga
